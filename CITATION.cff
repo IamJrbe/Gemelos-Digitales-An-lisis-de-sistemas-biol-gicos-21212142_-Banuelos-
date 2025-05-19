@@ -8,21 +8,23 @@ message: >-
   metadata from this file.
 type: software
 authors:
-  - given-names: Andres Martin
-    name-particle: Andres
+  - given-names: Andres martin
     family-names: Banuelos Elias
-    email: L21212142@tectijuana.edu.mx
-    affiliation: Tecnológico Nacional de Mexico
+    email: l21212142@tectijuana.edu.mx
 identifiers:
   - type: url
     value: >-
-https://github.com/IamJrbe/Gemelos-Digitales-An-lisis-de-sistemas-biol-gicos-21212142_-Banuelos-    
-description: Practica 5_Analisis de sistemas biologicos
+      https://github.com/IamJrbe/Gemelos-Digitales-An-lisis-de-sistemas-biol-gicos-21212142_-Banuelos-
 abstract: |-
   Tecnologico Nacional de México 
-    Instituto Tecnologico de Tijuana
-    Ingeniería Biomédica 
-    Gemelos Digitales
-    Práctica 2- Lotka-Volterra
+  Instituto Tecnologico de Tijuana
+  Ingeniería Biomédica 
+  Gemelos Digitales
+  Práctica 5- Analisis de sistemas biologicos
 keywords:
+  - Crecimiento logistico
+  - Sistema biologico
+  - Modelo matemaico
+  - Positividad
+  - Funcion localizadora
 license: BSD-2-Clause
