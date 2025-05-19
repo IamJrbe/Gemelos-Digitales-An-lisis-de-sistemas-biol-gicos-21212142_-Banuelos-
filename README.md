@@ -1,5 +1,5 @@
 
-# GemelosDigitales-Practica2-Lotka-Volterra-21212142_-Banuelos-
+# GemelosDigitales-Practica 5- Análisis de sistemas biológicos [21212142 Bañuelos]
 Practica 5- Análisis de sistemas biológicos [21212142 Bañuelos]
 ## Autor
 Andres Martin Bañuelos Elias
