@@ -29,6 +29,8 @@ Estas simulaciones permiten entender cómo un modelo matemático puede represent
 
 1.Analizar el comportamiento dinámico de sistemas biológicos complejos mediante la implementación de modelos matemáticos basados en ecuaciones diferenciales.
 
+2.P. De Leenheer & D. Aeyels, "Stability properties of equilibria of classes of cooperative systems," IEEE Transactions on Automatic Control, vol. 46, no. 12, pp. 1996--2001, 2001, doi: https://doi.org/10.1109/9.975508.
+
 2.Simular el sistema bajo diferentes condiciones iniciales y parámetros, tanto en escenarios con variables normalizadas como no normalizadas, para observar su influencia en la evolución del sistema.
 
 3.Identificar y caracterizar distintos tipos de comportamientos del sistema, tales como atractores caóticos, órbitas periódicas, ciclos límite (internos y externos) y convergencia a puntos de equilibrio.
