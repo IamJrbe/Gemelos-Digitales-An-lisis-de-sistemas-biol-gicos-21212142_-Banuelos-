@@ -14,8 +14,11 @@ Para esto, se simularon dos escenarios: uno con variables normalizadas (valores 
 Además, se identificaron distintos patrones de comportamiento del sistema, tales como:
 
 1.Atractor caótico
+
 2.Órbitas periódicas
+
 3.Ciclo límite interno
+
 4.Ciclo límite externo
 5.Convergencia hacia un punto de equilibrio
 
@@ -24,9 +27,13 @@ Estas simulaciones permiten entender cómo un modelo matemático puede represent
 ## Objetivos específicos
 
 1.Analizar el comportamiento dinámico de sistemas biológicos complejos mediante la implementación de modelos matemáticos basados en ecuaciones diferenciales.
+
 2.Simular el sistema bajo diferentes condiciones iniciales y parámetros, tanto en escenarios con variables normalizadas como no normalizadas, para observar su influencia en la evolución del sistema.
+
 3.Identificar y caracterizar distintos tipos de comportamientos del sistema, tales como atractores caóticos, órbitas periódicas, ciclos límite (internos y externos) y convergencia a puntos de equilibrio.
+
 4.Utilizar MATLAB y funciones previamente desarrolladas para resolver el sistema de ecuaciones y representar gráficamente los resultados en el dominio del tiempo.
+
 5.Comprender cómo pequeñas variaciones en los parámetros pueden generar dinámicas complejas y contrastantes, aplicando este conocimiento a la interpretación de fenómenos biológicos reales
 
 ## Docente
