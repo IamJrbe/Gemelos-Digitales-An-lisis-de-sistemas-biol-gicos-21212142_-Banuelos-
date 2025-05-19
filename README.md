@@ -20,6 +20,7 @@ Además, se identificaron distintos patrones de comportamiento del sistema, tale
 3.Ciclo límite interno
 
 4.Ciclo límite externo
+
 5.Convergencia hacia un punto de equilibrio
 
 Estas simulaciones permiten entender cómo un modelo matemático puede representar la dinámica de un sistema biológico real, como en aplicaciones de medicina o biología, y cómo pequeñas variaciones pueden llevar a comportamientos muy distintos, lo que es importante en el estudio de enfermedades como el cáncer.
